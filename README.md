@@ -5,13 +5,13 @@
 ## 🛠️ Languages & Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,cpp,java" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,cpp,java,ts,dart" />
 </p>
 
 ## 🚀 What I Build
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=discordjs,nextjs,nodejs,mongodb,supabase" />
+  <img src="https://skillicons.dev/icons?i=discordjs,nextjs,nodejs,mongodb,supabase,react" />
 </p>
 
 I mainly work on:
@@ -49,5 +49,5 @@ I mainly work on:
 ---
 
 <p align="center">
-  <b>Hoàng Huy - Developer</b>
+  <b>✨ Hoàng Huy - Developer</b>
 </p>
