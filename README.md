@@ -5,13 +5,13 @@
 ## 🛠️ Languages & Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,cpp,java,ts,dart" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,cpp,golang,java,ts,dart" />
 </p>
 
 ## 🚀 What I Build
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=discordjs,nextjs,nodejs,mongodb,supabase,react" />
+  <img src="https://skillicons.dev/icons?i=discordjs,nextjs,nodejs,mongodb,supabase,react,django,redis" />
 </p>
 
 I mainly work on:
@@ -25,7 +25,7 @@ I mainly work on:
 ## 📌 Currently Working With
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,cloudflare,googlecloud" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,gitlab,vercel,cloudflare,googlecloud,aws" />
 </p>
 
 ---
