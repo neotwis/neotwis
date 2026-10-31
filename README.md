@@ -58,5 +58,5 @@ I mainly work on:
 ---
 
 <p align="center">
-  <b>✨ neotwis - Full Stack Developer</b>
+  <b>✨ neotwis - Hoàng Huy</b>
 </p>
